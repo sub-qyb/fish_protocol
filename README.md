@@ -10,7 +10,7 @@ FishProtocol是从FishBot的Driver中抽离出的，采用boost库作为核心�
 
 ```
 sudo apt install libboost-dev
-git clone https://gh.api.99988866.xyz/https://github.com/fishros/fish_protocol.git 
+git clone https://github.com/fishros/fish_protocol.git 
 cd fish_protocol && mkdir build  && cd build
 cmake .. && sudo make install # 将安装到系统库
 ```
